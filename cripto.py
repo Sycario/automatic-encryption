@@ -1,5 +1,4 @@
 import hashlib
-from tkinter import E
 
 uname = input('word that will be encrypted:')
 print('choose one of the encryptions sha512, sha256, md5, sha1')
